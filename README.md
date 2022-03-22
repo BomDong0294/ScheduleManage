@@ -1,2 +1,2 @@
-# XManagementSystem
+# ScheduleManage
 course project for top
